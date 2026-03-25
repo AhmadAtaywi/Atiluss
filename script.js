@@ -1,7 +1,7 @@
 const form = document.getElementById("contactForm");
 const statusText = document.getElementById("formStatus");
 
-const SCRIPT_URL = "YOUR_SCRIPT_URL_HERE";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyH-Hxg4DWzhV3dRL5r0epqjByC_QbLMG1X9PYdYXlthWKj8LSyKgHsEafd9S__ay4O/exec";
 
 if (form) {
   form.addEventListener("submit", async function (e) {
